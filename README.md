@@ -1,0 +1,2 @@
+# 2c8471be1198351c-aerospace-project-management-a
+The aerospace tool you'd build yourself — if you had the time.  Fully documented: every section explained so you know exactly what to customize. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Aerospace Project Management And Team Collaboration — fully configured and ready to use - Pre-built databases
